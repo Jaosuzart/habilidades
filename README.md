@@ -8,8 +8,6 @@
 ### 🌐 Projetos Destacados (Hospedados na Vercel)
 | Projeto       | Descrição          | Demo       | Repositório   |
 | ------------- | ------------------ | ---------- | ------------- |
-| DevLinks      | Agregador de links | [🔗 Demo](https://dev-links-jaosuzart.vercel.app/) | [📂 Código](https://github.com/Jaosuzart/devlinks) |
-| NLW Setup     | Aplicativo de hábitos | [🔗 Demo](https://nlw-setup-jaosuzart.vercel.app/) | [📂 Código](https://github.com/Jaosuzart/nlw-setup) |
 ## 🌐 Deploy  
 [![Vercel](https://img.shields.io/badge/Vercel-Deployed-%23000?logo=vercel)](https://dev-links-jaosuzart.vercel.app/)
 
@@ -31,13 +29,10 @@
 ## 🌟 Projetos Destacados
 | Projeto       | Descrição          | Demo       | Tecnologias |
 | ------------- | ------------------ | ---------- | ----------- |
-| DevLinks      | Agregador de links | [🔗 Vercel](https://dev-links-jaosuzart.vercel.app/) | HTML, CSS, JS |
-| NLW Setup     | App de hábitos     | [🔗 Vercel](https://nlw-setup-jaosuzart.vercel.app/) | React, Node |
-| API REST      | Backend Node.js    | [🔗 Vercel](https://api-rest-node.vercel.app/) | Node.js, MongoDB |
+| DevLinks      | Agregador de links | [🔗 Vercel](https://vercel.com/jaosuzarts-projects) | HTML, CSS, JS |
 ## Curso concluido:
 -Algoritmo e lógica de programação de Nélio Alves.
 ## 📚 Curso em andamentos:
 -Curso web Fundamentos (Front-end)
 ## 📫 Contato
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin)](https://linkedin.com/in/seu-linkedin)
-[![Portfólio](https://img.shields.io/badge/Portfólio-FF7139?logo=vercel)](https://portfolio-jaosuzart.vercel.app)
+[![LinkedIn](https://www.linkedin.com/in/joao-marcelo-suzart-lima-castro-587675266/)
