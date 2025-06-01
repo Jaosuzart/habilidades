@@ -36,3 +36,5 @@
 -Curso web Fundamentos (Front-end)
 ## 📫 Contato
 [![LinkedIn](https://www.linkedin.com/in/joao-marcelo-suzart-lima-castro/)
+# Meu Perfil do LinkedIn
+🔗 [Acesse meu perfil aqui](https://www.linkedin.com/in/joao-marcelo-suzart-lima-castro/)
