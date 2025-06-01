@@ -34,11 +34,10 @@
 | DevLinks      | Agregador de links | [🔗 Vercel](https://dev-links-jaosuzart.vercel.app/) | HTML, CSS, JS |
 | NLW Setup     | App de hábitos     | [🔗 Vercel](https://nlw-setup-jaosuzart.vercel.app/) | React, Node |
 | API REST      | Backend Node.js    | [🔗 Vercel](https://api-rest-node.vercel.app/) | Node.js, MongoDB |
-
-## 📚 Cursos Concluídos
--Curso web Fundamnetos(Front-end)
-- NLW Setup (React)
-- Algoritmos e lógica de programação
+## Curso concluido:
+-Algoritmo e lógica de programação de Nélio Alves.
+## 📚 Curso em andamentos:
+-Curso web Fundamentos (Front-end)
 ## 📫 Contato
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin)](https://linkedin.com/in/seu-linkedin)
 [![Portfólio](https://img.shields.io/badge/Portfólio-FF7139?logo=vercel)](https://portfolio-jaosuzart.vercel.app)
