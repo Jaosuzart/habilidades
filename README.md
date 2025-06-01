@@ -42,3 +42,6 @@
 ## 📫 Contato
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin)](https://linkedin.com/in/seu-linkedin)
 [![Portfólio](https://img.shields.io/badge/Portfólio-FF7139?logo=vercel)](https://portfolio-jaosuzart.vercel.app)
+<div align="center">
+  <img src="https://i.imgur.com/SeuBanner.png" width="80%">
+</div>
