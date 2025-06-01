@@ -35,4 +35,4 @@
 ## 📚 Curso em andamentos:
 -Curso web Fundamentos (Front-end)
 ## 📫 Contato
-[![LinkedIn](https://www.linkedin.com/in/joao-marcelo-suzart-lima-castro-587675266/)
+[![LinkedIn](joao-marcelo-suzart-lima-castro)
